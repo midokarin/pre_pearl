@@ -1,9 +1,9 @@
 //let myHanding = document.querySelector("h1");
 //myHanding.textContent = "Hello World!";
 
-//document.querySelector("html").addEventListener("click", () => {
-//	alert("别戳我，我怕疼。");
-//});
+document.querySelector("html").addEventListener("click", () => {
+	alert("别戳我，我怕疼。");
+});
 
 let myImage = document.querySelector("img");
 
